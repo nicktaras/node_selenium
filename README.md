@@ -9,7 +9,12 @@ Safari Browser.
 
 2. Run: ````safaridriver --enable````
 
-3. Run: ````node index.js````
+3. Update Chrome to the latest
+
+4. Upgrade or install Chrome Driver ````brew install chromedriver````
+ or  ````brew cask upgrade chromedriver````
+
+5. Run: ````node index.js````
 
 ## Reading
 
