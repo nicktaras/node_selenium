@@ -1,7 +1,7 @@
 # Node Selenium
 
 A repository to show how Selenium can be used to carry out tasks via the
-Safari Browser.
+Safari / Chrome Browser. At this time, for all download requirements, use the Chrome Browser.
 
 ## Installation
 
@@ -19,3 +19,5 @@ Safari Browser.
 ## Reading
 
 <https://developer.apple.com/documentation/webkit/testing_with_webdriver_in_safari>
+
+<https://www.npmjs.com/package/selenium-webdriver>
