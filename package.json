@@ -1,28 +1,23 @@
 {
-  "name": "googlesearch",
+  "name": "node_selenium",
   "version": "1.0.0",
-  "description": "Google home page automated test ",
+  "description": "A repository to show how Selenium can be used to carry out tasks via the Safari or Chrome Browser.",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test --reporter mochawesome --reporter-options autoOpen=true"
+    "test": ""
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bmshamsnahid/Automation-With-Selenium-And-Node.js.git"
+    "url": "https://github.com/nicktaras/node_selenium"
   },
-  "author": "B M Shams Nahid",
+  "author": "Nick Taras",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bmshamsnahid/Automation-With-Selenium-And-Node.js/issues"
+    "url": "https://github.com/nicktaras/node_selenium/issues"
   },
-  "homepage": "https://github.com/bmshamsnahid/Automation-With-Selenium-And-Node.js#readme",
+  "homepage": "https://github.com/nicktaras/node_selenium#readme",
   "devDependencies": {
-    "chai": "^4.1.2",
-    "chai-as-promised": "^7.1.1",
     "chromedriver": "^2.41.0",
-    "faker": "^4.1.0",
-    "mocha": "^5.2.0",
-    "mochawesome": "^3.0.3",
     "selenium-webdriver": "^4.0.0-alpha.1"
   }
 }
